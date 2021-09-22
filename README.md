@@ -16,4 +16,6 @@
 ![Dashboard](https://user-images.githubusercontent.com/56224328/134331794-b1acaca5-8941-46de-abfe-7722c9b0189e.jpg)
 #COOKIE
 ![cookie](https://user-images.githubusercontent.com/56224328/134333284-984a3060-91bd-4ba3-867a-cbfbcf6cd5b9.jpg)
+#SESSION
+![session](https://user-images.githubusercontent.com/56224328/134333945-a9daa719-eae7-4680-878b-d62c55f1c487.gif)
 
