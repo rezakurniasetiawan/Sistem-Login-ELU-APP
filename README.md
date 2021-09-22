@@ -14,3 +14,6 @@
 ![double username](https://user-images.githubusercontent.com/56224328/134332688-a12e04a1-8a73-427b-bdb5-886f9bfb2dba.jpg)
 # Preview Login Admin Berhasil ( Dashboard)
 ![Dashboard](https://user-images.githubusercontent.com/56224328/134331794-b1acaca5-8941-46de-abfe-7722c9b0189e.jpg)
+#COOKIE
+![cookie](https://user-images.githubusercontent.com/56224328/134333284-984a3060-91bd-4ba3-867a-cbfbcf6cd5b9.jpg)
+
